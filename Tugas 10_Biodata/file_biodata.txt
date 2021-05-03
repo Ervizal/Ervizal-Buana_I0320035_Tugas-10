@@ -1,3 +1,0 @@
-Nama	NIM			Umur		Status		Alamat
-Vizal	I0320035	18 Tahun	Mahasiswa	Jl. Pulosari No. 3 Kota Malang
-Rafli	I0320080	19 Tahun	Mahasiswa	Semarang
